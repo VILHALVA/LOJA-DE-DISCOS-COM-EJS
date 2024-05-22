@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INFO</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        body {
+            padding-top: 20px;
+        }
+        .container {
+            max-width: 800px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="center-align">Informações dos Discos</h1>
+        <ul class="collection">
+            <% for (let i = 0; i < produtos.length; i++) { %>
+                <li class="collection-item"><span class="badge"><%= produtos[i].ano %></span><%= produtos[i].descricao %></li>
+            <% } %>
+        </ul>
+        <br>
+        <a href="/" class="waves-effect waves-light btn">VOLTAR AO MENU</a>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>
