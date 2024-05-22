@@ -1,11 +1,11 @@
 # LOJA DE DISCOS COM EJS
 👨‍🏫LOJA DE DISCOS COM EJS, EXPRESSJS, MATERIALIZECSS E JSON.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> <br> 
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> <br>
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> <br>
-<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> 
 <img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
