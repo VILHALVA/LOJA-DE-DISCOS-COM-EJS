@@ -1,5 +1,5 @@
 # LOJA DE DISCOS COM EJS
-👨‍🏫LOJA DE DISCOS COM EJS, EXPRESSJS E JSON.
+👨‍🏫LOJA DE DISCOS COM EJS, EXPRESSJS, MATERIALIZECSS E JSON.
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> <br> 
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> <br>
@@ -55,6 +55,7 @@ O projeto de `loja de discos` é um aplicativo web que permite aos usuários exp
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE EJS](https://github.com/VILHALVA/CURSO-DE-EJS)
+* [CURSO DE MATERIALIZECSS](https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE EXPRESSJS](https://github.com/VILHALVA/CURSO-DE-EXPRESSJS)
 * [CURSO DE JSON](https://github.com/VILHALVA/CURSO-DE-JSON)
