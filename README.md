@@ -6,10 +6,10 @@
 <img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> 
 <details>
 <summary>CLIQUE AQUI PARA VER MAIS FOTOS!</summary>
-   <img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br> 
+   <img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br> <br> 
    <img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> 
    <img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br>
-   <img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> <br> 
    <img src="./IMAGENS/FOTO_06.png" align="center" width="500"> <br> 
 </details>
 
