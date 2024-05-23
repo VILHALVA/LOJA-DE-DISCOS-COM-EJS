@@ -1,12 +1,17 @@
 # LOJA DE DISCOS COM EJS
 👨‍🏫LOJA DE DISCOS COM EJS, EXPRESSJS, MATERIALIZECSS E JSON.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> 
+<details>
+<summary>CLIQUE AQUI PARA VER MAIS FOTOS!</summary>
+   <img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br> 
+   <img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> 
+   <img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_06.png" align="center" width="500"> <br> 
+</details>
 
 ## DESCRIÇÃO:
 O projeto de `loja de discos` é um aplicativo web que permite aos usuários explorar uma seleção de discos disponíveis. Ele fornece informações detalhadas sobre cada disco, como ano de lançamento e descrição do álbum.
@@ -14,7 +19,6 @@ O projeto de `loja de discos` é um aplicativo web que permite aos usuários exp
 1. **Visualização de Discos:** Os usuários podem visualizar uma lista de discos disponíveis.
 2. **Detalhes do Disco:** Cada disco exibe informações como ano de lançamento e uma descrição detalhada do álbum.
 3. **Navegação:** Os usuários podem navegar entre os diferentes discos usando a interface do aplicativo.
-4. **Voltar ao Menu:** Existe um botão "Voltar ao Menu" que permite aos usuários retornar à página inicial do aplicativo.
 
 ## EXECUTANDO O PROJETO:
 1. **Instalando as Depêndencias:**
@@ -45,7 +49,6 @@ O projeto de `loja de discos` é um aplicativo web que permite aos usuários exp
    2. Cada item da lista corresponde a um disco específico e exibe o ano de lançamento e uma breve descrição.
    3. Para obter mais informações, o usuário pode clicar em `informações`.
    4. Isso o levará a uma página de detalhes dos discos, onde informações mais detalhadas sobre os álbuns serão exibidas, como ano de lançamento e descrição completa.
-   5. Para retornar à página inicial, os usuários podem clicar no botão "Voltar ao Menu" localizado na parte inferior da página de detalhes do disco.
 
 4. **Uso do arquivo `informacoes.json`:**
    - O arquivo `./CODIGO/public/informacoes.json` contém os dados dos discos disponíveis informações.
